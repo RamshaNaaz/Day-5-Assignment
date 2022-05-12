@@ -13,4 +13,4 @@ done
 
      echo $sum
                avg=$((sum / n ))
-                   echo $avg 
+                   echo $avg
